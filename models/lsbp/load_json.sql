@@ -1,3 +1,4 @@
+/* COMMENT */ 
 select
 $1:device_key::string as device_key,
 $1:device_value::variant as device_value
